@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sleepsounds/static/css/main.1a546b12.css",
-    "main.js": "/sleepsounds/static/js/main.43048111.js",
+    "main.js": "/sleepsounds/static/js/main.f353001a.js",
     "static/js/453.96a3185e.chunk.js": "/sleepsounds/static/js/453.96a3185e.chunk.js",
     "index.html": "/sleepsounds/index.html",
     "main.1a546b12.css.map": "/sleepsounds/static/css/main.1a546b12.css.map",
-    "main.43048111.js.map": "/sleepsounds/static/js/main.43048111.js.map",
+    "main.f353001a.js.map": "/sleepsounds/static/js/main.f353001a.js.map",
     "453.96a3185e.chunk.js.map": "/sleepsounds/static/js/453.96a3185e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a546b12.css",
-    "static/js/main.43048111.js"
+    "static/js/main.f353001a.js"
   ]
 }
